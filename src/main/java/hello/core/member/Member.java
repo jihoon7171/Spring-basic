@@ -12,6 +12,7 @@ public class Member {
     }
 
     public long getId() {
+
         return id;
     }
 

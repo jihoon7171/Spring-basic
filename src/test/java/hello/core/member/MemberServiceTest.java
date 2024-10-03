@@ -18,6 +18,7 @@ public class MemberServiceTest {
         orderService = appConfig.orderService();
     }
 
+
     @Test
     void join(){
         //given
