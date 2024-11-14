@@ -15,6 +15,7 @@ public class BeanLIfeCycleTest {
 
     }
 
+    
     @Configuration
     static class LifeCycleConfig{
         //@Bean(initMethod = "init", destroyMethod = "close")
